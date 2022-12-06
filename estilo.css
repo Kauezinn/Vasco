@@ -1,0 +1,15 @@
+body {
+  width: 400px;
+  height: 200px;
+  background-image:url(cu.jpg);
+ }
+ 
+h2, p, label {
+font-style: bold;
+color: aliceblue;
+ }
+
+ h1 {
+    font-style: bold;
+color: red;
+ }
